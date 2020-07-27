@@ -32,3 +32,4 @@ ring_grip = external_ring_radius - internal_ring_radius;
 * Gcode was gotten using Cura 4.6.2
 
 ## Installation
+<img src="img/installation.gif" width="250">
